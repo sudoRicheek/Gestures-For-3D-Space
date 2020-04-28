@@ -146,7 +146,8 @@
     \renewcommand{\LaTeX}{\textrm{\Oldlatex}}
     % Document parameters
     % Document title
-    \title{Visualizing and Understanding Convolutional Networks}
+    \title{\vspace{-1.0cm}A Review On \\
+    Visualizing and Understanding Convolutional Networks}
     \author{Richeek Das}
     
     
@@ -503,14 +504,14 @@ activations, on the ImageNet validation set.
 In the figure below, the top 9 activations, each projected separately
 down to its input pixel space, have been shown, also showing its invariance to input deformations.
 
-Quoting the original excerpt from the paper :
+Quoting the \textbf{original} excerpt from the paper :
 
 \begin{quote}
 The projections from each layer show the hierarchical nature of the features in the network. Layer 2 responds to corners and other edge/color conjunctions. Layer 3 has more complex invariances, capturing similar textures (e.g. mesh patterns (Row 1, Col 1); text (R2,C4)). Layer 4 shows significant variation, and is more class-specific: dog faces (R1,C1); bird’s legs (R4,C2). Layer 5 shows entire objects with significant pose variation, e.g. keyboards (R1,C11) and dogs (R4).
 \end{quote}
 
     \begin{center}
-    \adjustimage{max size={1.0\linewidth}{0.9\paperheight}}{dia1.png}
+    \adjustimage{max size={0.9\linewidth}{0.9\paperheight}}{dia1.png}
     \end{center}
     { \hspace*{\fill} \\}
 
