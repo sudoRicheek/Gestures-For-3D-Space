@@ -19,7 +19,12 @@ A **Summer of Code** project under **WnCC IITB** for designing both the front an
   
 * [Summary Of A Paper Exploring DeConvolutional Networks](https://github.com/sudoRicheek/Gestures-For-3D-Space/blob/master/Notes%20And%20Basic%20Implementations/DeConvolutional%20Networks%20Summary.pdf)
   
-  Here, you can find the summarized version of this [paper](https://www.google.com/url?sa=t&source=web&rct=j&url=https://cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf&ved=2ahUKEwjcsrbOzPToAhVt7nMBHV9GAlYQFjAQegQIBxAB&usg=AOvVaw3ga-MmEmZLvVUSuQhiPog8&cshid=1587303221548), by **Matthew D. Zeiler and Rob Fergus from the Dept. of Computer Science, New York University, USA** which mainly explores the novel way of **Visualizing and Understanding Convolutional Networks** through *DeConvNets*. 
+  Here, you can find my summarized version of this [paper](https://www.google.com/url?sa=t&source=web&rct=j&url=https://cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf&ved=2ahUKEwjcsrbOzPToAhVt7nMBHV9GAlYQFjAQegQIBxAB&usg=AOvVaw3ga-MmEmZLvVUSuQhiPog8&cshid=1587303221548), by **Matthew D. Zeiler and Rob Fergus from the Dept. of Computer Science, New York University, USA** which mainly explores the novel way of **Visualizing and Understanding Convolutional Networks** through *DeConvNets*.
+  
+* [Dataset Creator For Hand Gestures](https://github.com/sudoRicheek/Dataset-Creator-For-Hand-Gestures)
+
+  I wrote this *OpenCV* code to easily and quickly create my own hand-gesture image datasets for this project. It implements background subtraction and binary thresholding and saves both the original colour image with 3 channels and the processed single channel image.
+
 
 * [Neural Networks and Deep Learning](https://github.com/sudoRicheek/NeuralNetworks-And-DeepLearning-SoS)
 
