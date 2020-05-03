@@ -24,6 +24,10 @@ A **Summer of Code** project under **WnCC IITB** for designing both the front an
 * [Dataset Creator For Hand Gestures](https://github.com/sudoRicheek/Dataset-Creator-For-Hand-Gestures)
 
   I wrote this *OpenCV* code to easily and quickly create my own hand-gesture image datasets for this project. It implements background subtraction and binary thresholding and saves both the original colour image with 3 channels and the processed single channel image.
+  
+* [Gesture Detection CNN Models Using Transfer Learning](https://github.com/sudoRicheek/Gestures-CNN-Model-Creation-And-FineTuning)
+
+  The above, repo hosts some of the notebooks and stuff that I had created while making the **CNN** Transfer Learning models for this project.
 
 
 * [Neural Networks and Deep Learning](https://github.com/sudoRicheek/NeuralNetworks-And-DeepLearning-SoS)
