@@ -28,7 +28,14 @@ A **Summer of Code** project under **WnCC IITB** for designing both the front an
 * [Gesture Detection CNN Models Using Transfer Learning](https://github.com/sudoRicheek/Gestures-CNN-Model-Creation-And-FineTuning)
 
   The above, repo hosts some of the notebooks and stuff that I had created while making the **CNN** Transfer Learning models for this project.
+  
+* [Trained CNN Model](https://drive.google.com/open?id=1yq6uEnXjBGXjME-CNTskK3_gB2tdBPIk)
 
+  Here you can find the **CNN Model** trained for gesture recognition. The notebooks created for training the neural net can be found in the last bullet point.
+  
+* [Gesture Application Model](https://github.com/sudoRicheek/Gestures-For-3D-Space/tree/master/Notes%20And%20Basic%20Implementations/Gesture%20Application%20Model)
+
+  The above piece of code is an implementation of an on-the-go gesture recognizer using a continuous video input through the webcam feed. To check the practical implications of this model, I added some basic fun-features like using gestures to play and pause videos, change current working application window and some volume modulation features as well. It has **PyAutoGUI**, **OpenCV**, **Keras** and **My CNN Model** in the last *Google Drive Link* as its dependencies.
 
 * [Neural Networks and Deep Learning](https://github.com/sudoRicheek/NeuralNetworks-And-DeepLearning-SoS)
 
