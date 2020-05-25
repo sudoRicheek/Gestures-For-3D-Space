@@ -40,6 +40,11 @@ A **Summer of Code** project under **WnCC IITB** for designing both the front an
 * [Image Enhancer](https://github.com/sudoRicheek/Image-Enhancer)
 
   This is a PyQt5 based open-source, cross-platform app, developed for **upscaling low resolution images upto 4x its initial resolution** using *SOTA Super Resolution GANs*.
+  
+* [Summary Of A Paper Exploring Sliding Windows For Making SOTA CNNs Usable In Real-Time Gesture Detection Module](https://github.com/sudoRicheek/Gestures-For-3D-Space/blob/master/Notes%20And%20Basic%20Implementations/Real-Time%20Hand%20Gesture%20Classification%20using%20SOTA%20CNN.pdf)
+
+  This is a review of a quite recent [paper](https://arxiv.org/abs/1901.10323) of 2019 titled “Real-time Hand Gesture Detection and Classification using Convolutional Neural Networks” and it aims to address issues faced by real-time recognition of
+dynamic hand gestures using *state-of-the-art* CNNs.
 
 * [Neural Networks and Deep Learning](https://github.com/sudoRicheek/NeuralNetworks-And-DeepLearning-SoS)
 
