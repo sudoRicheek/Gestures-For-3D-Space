@@ -37,6 +37,10 @@ A **Summer of Code** project under **WnCC IITB** for designing both the front an
 
   The above piece of code is an implementation of an on-the-go gesture recognizer using a continuous video input through the webcam feed. To check the practical implications of this model, I added some basic fun-features like using gestures to play and pause videos, change current working application window and some volume modulation features as well. It has **PyAutoGUI**, **OpenCV**, **Keras** and **My CNN Model** in the last *Google Drive Link* as its dependencies.
 
+* [Image Enhancer](https://github.com/sudoRicheek/Image-Enhancer)
+
+  This is a PyQt5 based open-source, cross-platform app, developed for **upscaling low resolution images upto 4x its initial resolution** using *SOTA Super Resolution GANs*.
+
 * [Neural Networks and Deep Learning](https://github.com/sudoRicheek/NeuralNetworks-And-DeepLearning-SoS)
 
   This is the link to the heavily related **Summer Of Science** project that I've taken up alongside my **SoC** project. It will house all the notes and implementations that I'll create throughout the summer break of 2020 on this topic.
