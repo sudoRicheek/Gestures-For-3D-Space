@@ -46,6 +46,10 @@ A **Summer of Code** project under **WnCC IITB** for designing both the front an
   This is a review of a quite recent [paper](https://arxiv.org/abs/1901.10323) of 2019 titled “Real-time Hand Gesture Detection and Classification using Convolutional Neural Networks” and it aims to address issues faced by real-time recognition of
 dynamic hand gestures using *state-of-the-art* CNNs.
 
+* [SRS Siamese NN One Shot Learning](https://github.com/sudoRicheek/Gestures-For-3D-Space/blob/master/SRS%20One%20%20Shot%20Learning.pdf)
+
+  This is the SRS Document for the **Siamese Neural Network** training codes for detecting Hand Gestures with minimal dataset(One Shot Learning).
+
 * [Neural Networks and Deep Learning](https://github.com/sudoRicheek/NeuralNetworks-And-DeepLearning-SoS)
 
   This is the link to the heavily related **Summer Of Science** project that I've taken up alongside my **SoC** project. It will house all the notes and implementations that I'll create throughout the summer break of 2020 on this topic.
