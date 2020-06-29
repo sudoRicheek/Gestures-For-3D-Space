@@ -49,6 +49,10 @@ dynamic hand gestures using *state-of-the-art* CNNs.
 * [SRS Siamese NN One Shot Learning](https://github.com/sudoRicheek/Gestures-For-3D-Space/blob/master/SRS%20One%20%20Shot%20Learning.pdf)
 
   This is the SRS Document for the **Siamese Neural Network** training codes for detecting Hand Gestures with minimal dataset(One Shot Learning).
+  
+* [Siamese Networks for One Shot Learning of Hand Gestures](https://github.com/sudoRicheek/Siamese-Net-One-Shot-Learning)
+
+  This repo will house the model training codes and explanations, for building a **Siamese Neural Network** for **Hand Gesture Classification using minimal datasets**.
 
 * [Neural Networks and Deep Learning](https://github.com/sudoRicheek/NeuralNetworks-And-DeepLearning-SoS)
 
