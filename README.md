@@ -5,6 +5,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 A **Summer of Code** project under **WnCC IITB** for designing both the front and back-end of a real-time gesture detection module. Everything related to the project including notes/implementations and related links to those will be hosted here.
 
+</br>
+
 &nbsp;&nbsp;&nbsp;&nbsp;
 **Final Task** of One Shot Learning can be found [here](https://github.com/sudoRicheek/Siamese-Net-One-Shot-Learning)
 
