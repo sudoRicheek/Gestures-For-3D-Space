@@ -2,13 +2,19 @@
 
 ## Dependencies
 
-* **OpenCV** : ***4.2.0***
+* **Python : 3.5+**
 
-* **PyAutoGUI** : ***0.9.50***
+* **OpenCV : 4.2.0**
 
-* **Keras** : ***2.3.1***
+* **PyAutoGUI : 0.9.50**
 
-* **My CNN Model** : [Download it here](https://drive.google.com/open?id=1yq6uEnXjBGXjME-CNTskK3_gB2tdBPIk)
+* **Tensorflow : 2.2.1**
+
+## Working :nerd_face:
+
+<p align="center">
+  <img src="ReadmeStuff/gesture_app.gif" />
+</p>
 
 ## Usage and Functions
 
@@ -18,10 +24,10 @@
 
 * Gestures Description : 
 
-  * **'Yo'** : Plays or Pauses a video
+  * **'Yo'** : **Plays** or **Pauses** the presently running video on the system.
   
-  * **'Ok'** : Starts Volume Control Options
+  * **'Ok'** : Starts **Volume Control** Options
   
-  * **'Stop'** : Toggles **'Alt'** key press in normal conditions but behaves like **'VolumeDown'** when Volume Control is on.
+  * **'Stop'** : Toggles **'Alt'** key press in normal conditions but behaves like **'VolumeDown'** when **Volume Control** is on.
   
-  * **'Peace'** : Behaves like **'Tab'** when **'Alt'** is pressed and **'VolumeUp'** when Volume Control is on.
+  * **'Peace'** : Behaves like **'Tab'** when **'Alt'** is pressed and **'VolumeUp'** when **Volume Control** is on.
