@@ -7,11 +7,9 @@ A **Summer of Code** project under **WnCC IITB** for designing both the front an
 
 </br></br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
-**Final Task** of One Shot Learning can be found [here](https://github.com/sudoRicheek/Siamese-Net-One-Shot-Learning)
+### [Final Task of One Shot Learning using Siamese Neural Networks](https://github.com/sudoRicheek/Siamese-Net-One-Shot-Learning).
 
-&nbsp;&nbsp;&nbsp;&nbsp;
-**Real Application** of Gesture Model can be found [here](https://github.com/sudoRicheek/Gestures-For-3D-Space/tree/master/Notes%20And%20Basic%20Implementations/Gesture%20Application%20Model)
+### [Real Application of Gesture Model](https://github.com/sudoRicheek/Gestures-For-3D-Space/tree/master/Notes%20And%20Basic%20Implementations/Gesture%20Application%20Model).
 
 ## Related Links
 
