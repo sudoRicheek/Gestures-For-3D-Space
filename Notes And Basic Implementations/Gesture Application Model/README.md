@@ -16,6 +16,18 @@
   <img src="ReadmeStuff/gesture_app.gif" />
 </p>
 
+## How to Run ?
+
+* Make sure you have all the pip requirements :
+  ```
+  pip install -r requirements.txt
+  ```
+
+* And then just run the **Gesture_Application.py** and that should do :
+  ```
+  python gesture_application.py
+  ```
+
 ## Usage and Functions
 
 * You should analyse the background before starting by pressing **'b'**.
